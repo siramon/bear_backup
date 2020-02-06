@@ -31,7 +31,7 @@ class BearBackup < Formula
                 <string>#{HOMEBREW_PREFIX}/bin/bear_backup.py</string>
                 <string>--notify</string>
                 <string>--remove</string>
-                <string>~/Dropbox/backups/bear</string>
+                <string>~/polybox/backups/bear</string>
             </array>
             <key>RunAtLoad</key>
             <false/>
