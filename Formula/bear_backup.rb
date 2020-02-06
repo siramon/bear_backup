@@ -3,7 +3,7 @@ class BearBackup < Formula
   homepage "https://github.com/siramon/bear_backup"
   head "git@github.com:siramon/bear_backup", :using => :git
 
-  depends_on "python3"
+  depends_on "python"
 
   def install
     bin.mkpath
